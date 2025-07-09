@@ -47,7 +47,7 @@ The following functions are supported:
     * *2 Reservation area dedicated to DRP-AI.
 <br>  
 
-Note that DRP-AI cannot be used simultaneously with OpenCV Accelerator and Codec Library. Please ensure that DRP-AI, OpenCV Accelerator and Codec are used exclusively in your application.
+Note that DRP-AI cannot be used simultaneously with OpenCV Accelerator and video decoding function of Video Codec Library. Please ensure that DRP-AI, OpenCV Accelerator and video decoding function are used exclusively in your application.
 
 ## 2. Terminology
 | Terms | Explanation |
